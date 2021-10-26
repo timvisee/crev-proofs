@@ -103,3 +103,25 @@ review:
 UW96Hz8mSWfS_az3TLB1M-fg12p2m1XLh54oSllYkQ5bANSWMO_Ia4et9xE435ic7tZbcek8LGcWC0FqhyHUBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-10-26T18:37:24.380482512+02:00"
+from:
+  id-type: crev
+  id: Xiy7uerdtt0cUJafEUXvJrOxYbfq1CR26yufi_1qvH0
+  url: "https://github.com/timvisee/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: chbs
+  version: 0.1.0
+  revision: b5f59f3bc67f6af0af3a3997f06f214cb5d8d87c
+  digest: qq7t4EbFssp4nwWLOnOegXxUJdiPQjt74wUbRf5b8Y0
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+RU7GINYFpvAMMHszCI8lKi0QaqQvxvfTKmwbbIsz7037wcedyei85f-kyquYOR35NwOnp6Q6ykgCLJPtAUWpCg
+----- END CREV PROOF -----
+
