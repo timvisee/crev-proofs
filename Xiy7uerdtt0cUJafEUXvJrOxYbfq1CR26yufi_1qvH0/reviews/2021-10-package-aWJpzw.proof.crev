@@ -1,0 +1,20 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-10-26T18:28:19.072425266+02:00"
+from:
+  id-type: crev
+  id: Xiy7uerdtt0cUJafEUXvJrOxYbfq1CR26yufi_1qvH0
+package:
+  source: "https://crates.io"
+  name: version-compare
+  version: 0.1.0
+  digest: UzoRINPHxPg69qCrIbkNdfy1znDAUPkMulNktVntO6U
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+2OhnZpen1N6Uicio5jpNIvf5SDNWvc7Nfzd7jmc5kkv57vskkYVnezY3chHthf9NCWU7ynhg-3KKZ0QJX1GHAA
+----- END CREV PROOF -----
+
