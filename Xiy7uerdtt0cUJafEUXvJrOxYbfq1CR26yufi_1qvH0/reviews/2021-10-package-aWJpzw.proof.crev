@@ -81,3 +81,25 @@ review:
 Zp7IBprg4-itOelGz8TWqKOzHoELBQrgWIv1K2YnSmQAPjN9YZ9hzNPkQbhCvAk-ymsmM3IwavaX0-1_64S2Bw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-10-26T18:36:51.693062107+02:00"
+from:
+  id-type: crev
+  id: Xiy7uerdtt0cUJafEUXvJrOxYbfq1CR26yufi_1qvH0
+  url: "https://github.com/timvisee/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: qr2term
+  version: 0.2.2
+  revision: e97e25bd848bf0825d1a267d90d9483bd59c57aa
+  digest: ZB0XXW-zsFxIXEwoPPFyTsQssksZQ1Xw3nqlr0Hpztg
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+UW96Hz8mSWfS_az3TLB1M-fg12p2m1XLh54oSllYkQ5bANSWMO_Ia4et9xE435ic7tZbcek8LGcWC0FqhyHUBw
+----- END CREV PROOF -----
+
