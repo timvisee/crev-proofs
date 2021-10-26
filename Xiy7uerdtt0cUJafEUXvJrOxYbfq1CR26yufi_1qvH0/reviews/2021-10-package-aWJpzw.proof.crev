@@ -125,3 +125,24 @@ review:
 RU7GINYFpvAMMHszCI8lKi0QaqQvxvfTKmwbbIsz7037wcedyei85f-kyquYOR35NwOnp6Q6ykgCLJPtAUWpCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-10-26T18:37:43.911981011+02:00"
+from:
+  id-type: crev
+  id: Xiy7uerdtt0cUJafEUXvJrOxYbfq1CR26yufi_1qvH0
+  url: "https://github.com/timvisee/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: copypasta-ext
+  version: 0.3.7
+  digest: TE95HbqiLLvFhBjHJqsSKkAyxyMgJXdckbDe2GvgOo4
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+xtQw5tB02lpvWJY1P1kqg6jXE9XXeB8qlV2rE5JFPXU3mXeh-7o9byOprEV-kBUTPTMUU5gHsaOUiDy146B5BA
+----- END CREV PROOF -----
+
