@@ -60,3 +60,24 @@ review:
 LVNht3SkvxJIsraruEAKDfNKpRNtbRSK9a2x7GrgJw-tUqe4oCr1Y6qBBNwfEm0wlt6Cy0yfYQbRnCAY-7KYAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-10-26T18:34:47.924169759+02:00"
+from:
+  id-type: crev
+  id: Xiy7uerdtt0cUJafEUXvJrOxYbfq1CR26yufi_1qvH0
+  url: "https://github.com/timvisee/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: prs-gtk3
+  version: 0.3.2
+  digest: pl3mbvfUUNOwwczwlOCqWXz7_JjT75TJvZDNIftrasI
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+Zp7IBprg4-itOelGz8TWqKOzHoELBQrgWIv1K2YnSmQAPjN9YZ9hzNPkQbhCvAk-ymsmM3IwavaX0-1_64S2Bw
+----- END CREV PROOF -----
+
